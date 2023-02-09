@@ -1,4 +1,4 @@
-node_modules/
+npm install
 .DS_Store
 .vscode
 .idea

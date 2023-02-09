@@ -1,3 +1,5 @@
+
+
 const coins = [
   'quarter',
   'dime',
@@ -13,4 +15,5 @@ const coins = [
 ];
 
 // your code
+module.exports = coins;
 // export the coins array
